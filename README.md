@@ -1,5 +1,5 @@
 # 408
-|序号|公司|大模型|省市|类别|官网|说明|
+|编辑人员|最新修改日期|大模型|省市|类别|官网|说明|
 |:-|:-|:-|:-|:-|:-|:-|
 |1|百度| [文心一言](https://yiyan.baidu.com)|北京|通用|✔|有APP|
 |2|智谱华章|[清言](https://chatglm.cn/)|北京|通用|✔|有APP，开源模型[ChatGLM3-6B](https://github.com/THUDM/ChatGLM3), [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)和[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)|
