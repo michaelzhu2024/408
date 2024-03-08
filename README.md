@@ -1,20 +1,11 @@
 # 2301班情报网络
 #⚠️警告：请在私密状态下查阅，并及时关闭页面！
 - 👨‍💻作者：男寝管理员；🕓更新时间：2024/03/09
-> \[!IMPORTANT]\
+> 提示：
 > 
 > - 请王老师给我加分；
 > - 纸质版已销毁；
 > - 格式：XXX寝室，日期，进行时间，人员。
-
-> \[!NOTE]
->
-> - Not all agents will be accepted, we will review the agent and make an assessment.
-> - You can submit agents even if you are not the author, but it is preferred that the author do it themselves.
-> - If you wish to have your agent removed, or believes the description does not properly describe your agent, please open the issue or pull request.
-
-
-
 ## 🚬 抽烟行为
 - 暂无
 
